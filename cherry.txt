@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 inital code
+=======
+cherry file2
+cherry file3
+>>>>>>> 716ff6a (commit cherry practice 3)
