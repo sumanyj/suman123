@@ -1,3 +1,4 @@
-revert A
-revert B
-revert C
+
+Resolved content
+hello from main branch
+>>>>>>> 21a67ca068efbb655b44fe448a99cdb1f15b1ada

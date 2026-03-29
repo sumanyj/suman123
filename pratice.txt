@@ -1,1 +1,2 @@
-This is from merge conflict
+hello from main branch
+code updates
