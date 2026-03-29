@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 inital code
 =======
 cherry file2
 cherry file3
 >>>>>>> 716ff6a (commit cherry practice 3)
+=======
+cherry file2
+>>>>>>> 7f10b07 (commit cherry practice 2)
